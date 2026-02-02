@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>🔭 I’m currently working on a research project about preventing ocular diseases with AI.  <br>🤝 I’m looking to collaborate on healthcare tech projects, especially those involving data, AI, and interoperability.  <br>👐 I’m looking for help with improving my skills in openEHR and large-scale database management.  <br>🌱 I’m currently learning more about medical informatics, interoperability standards, and AI applications in healthcare.  <br>💬 Ask me about biomedical engineering, Python, SQL, or building healthcare applications.  <br>⚡ Fun fact: I love sports 🏀⚽, playing guitar 🎸, gaming 🎮 and cars 🚗.  <br>
+### Hi there 👋<br><br>🔭 I’m currently conducting research for my dissertation on AI-based diagnosis of keratoconus.  <br>🤝 I’m looking to collaborate on healthcare tech projects, especially those involving data, AI, and interoperability.  <br>👐 I’m looking for help with improving my skills in openEHR and large-scale database management.  <br>🌱 I’m currently learning more about medical informatics, interoperability standards, and AI applications in healthcare.  <br>💬 Ask me about biomedical engineering, Python, SQL, or building healthcare applications.  <br>⚡ Fun fact: I love sports 🏀⚽, playing guitar 🎸, gaming 🎮 and cars 🚗.  <br>
 
 
 # 💻 Tech Stack:
